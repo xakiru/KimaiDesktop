@@ -1,5 +1,6 @@
 # KimaiDesktop
-Windows interface for Kimai the open source time tracking
+Windows interface for Kimai the open source time tracking.
+For more information concerning this app please feel free to contact me xakiru@gmail.com
 
 
 # Screenshots
