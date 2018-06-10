@@ -3,6 +3,10 @@ Windows interface for Kimai the open source time tracking.
 For more information concerning this app please feel free to contact me xakiru@gmail.com
 
 
+# Install
+Get the folder /bin and run bin/KimaiDesktop.exe
+
+
 # Screenshots
 
 Login interface : a simple login interface
